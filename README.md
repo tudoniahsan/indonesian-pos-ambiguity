@@ -58,11 +58,30 @@ grounded in linguistic distributional analysis.
 
 ## Results
 
-| Metric | Score |
-|--------|-------|
-| Overall Accuracy | **82.89%** |
-| Best word (dengan, hingga) | 100% |
-| Weakest word (sejak) | 56.5% |
+| Method | Accuracy |
+|--------|----------|
+| Rule-based classifier | **82.89%** |
+| ML extension (Logistic Regression) | 71.05% |
+
+The rule-based system outperforms logistic regression due to the small 
+dataset size (187 sentences). Linguistically-motivated rules prove more 
+data-efficient in low-resource settings — a finding consistent with 
+NLP research on morphologically rich and understudied languages.
+
+**Per-word accuracy (rule-based):**
+
+| Word | Accuracy |
+|------|----------|
+| dengan | 100% |
+| hingga | 100% |
+| setelah | 90.5% |
+| karena | 89.7% |
+| buat | 88.9% |
+| untuk | 84.6% |
+| akan | 80.0% |
+| sebelum | 70.6% |
+| sampai | 66.7% |
+| sejak | 56.5% |
 
 ## Error Analysis
 
