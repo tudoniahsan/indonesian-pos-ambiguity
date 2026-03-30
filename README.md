@@ -5,26 +5,37 @@ in Indonesian functional words using distributional features.
 
 ## Background
 
-Indonesian functional words like *karena*, *untuk*, *sejak*, 
-and *dengan* can function as different parts of speech 
-depending on their syntactic context. This project 
-operationalizes linguistic distributional criteria to 
-automatically classify them.
+This project is based on the author's corpus linguistics research on 
+syntactic category ambivalence in Indonesian. The study identified 
+eleven lexical forms drawn from thirteen horror short stories published 
+on Mojok.co that exhibit ambivalent syntactic behavior: *sejak, karena, 
+sebelum, untuk, dengan, setelah, hingga, buat, sama, akan*, and *sampai*.
+
+These words cannot be categorized based on lexical form alone — their 
+syntactic category (preposition, subordinating conjunction, coordinating 
+conjunction, adverb, or verb) is determined entirely by their 
+distributional pattern and the type of constituent that follows them 
+in the sentence structure.
+
+This project operationalizes those distributional criteria into a 
+rule-based NLP classifier, bridging linguistic theory and computational 
+implementation.
 
 ## Words Covered
 
-| Word | POS Categories |
-|------|---------------|
-| karena | CONJ / PREP |
-| untuk | CONJ / PREP |
-| dengan | CONJ / PREP |
-| sejak | CONJ / PREP / ADV |
-| sebelum | CONJ / PREP |
-| setelah | CONJ / PREP |
-| hingga | CONJ / PREP |
-| sampai | CONJ / PREP / VERB / ADV |
-| akan | ADV / PREP |
-| buat | CONJ / PREP |
+| Word | POS Categories | Distributional Basis |
+|------|---------------|---------------------|
+| karena | Subordinating CONJ / PREP | Followed by clause vs nominal phrase |
+| untuk | Subordinating CONJ / PREP | Followed by clause vs nominal phrase |
+| dengan | Subordinating CONJ / PREP | Followed by clause vs nominal phrase |
+| sejak | Subordinating CONJ / PREP / ADV | Followed by clause vs nominal vs interrogative |
+| sebelum | Subordinating CONJ / PREP | Followed by clause vs nominal phrase |
+| setelah | Subordinating CONJ / PREP | Followed by clause vs nominal phrase |
+| hingga | Subordinating CONJ / PREP | Followed by clause vs nominal phrase |
+| buat | Subordinating CONJ / PREP | Followed by clause vs nominal phrase |
+| sama | Coordinating CONJ / PREP | Connects equal elements vs followed by nominal |
+| akan | ADV / PREP | Precedes verb vs followed by nominal phrase |
+| sampai | VERB / ADV / PREP | Occupies predicate vs modifies verb vs followed by nominal |
 
 ## Method
 
