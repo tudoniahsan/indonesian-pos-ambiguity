@@ -52,9 +52,9 @@ grounded in linguistic distributional analysis.
 
 ## Dataset
 
-- 187 sentences from Indonesian fiction corpus
+- 187 sentences from Indonesian fiction corpus (Mojok.co, 2022)
 - Manually annotated with gold-standard POS labels
-- Source: Setiawan (2022)
+- Data collected and annotated by the author
 
 ## Results
 
@@ -100,7 +100,8 @@ indonesian-pos-ambiguity/
 │   ├── features.py
 │   ├── classifier.py
 │   ├── main.py
-│   └── visualize.py
+│   ├── visualize.py
+│   └── ml_classifier.py
 ├── results/
 │   ├── results.csv
 │   ├── error_analysis.csv
@@ -110,6 +111,6 @@ indonesian-pos-ambiguity/
 
 ## Future Work
 
-- ML extension using logistic regression
-- Expand to more Indonesian functional words
+- Expand dataset beyond 187 sentences
 - Handle implicit predicates and ellipsis
+- Neural network extension (BERT-based classifier)
