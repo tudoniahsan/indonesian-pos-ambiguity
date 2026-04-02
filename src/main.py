@@ -9,6 +9,9 @@ from classifier import classify
 # Load dataset
 df = load_dataset("dataset/dataset.csv")
 
+# Exclude sama — category shift not determined by following constituent
+df = df[df['word'] != 'sama'].copy()
+
 # Prediksi setiap baris
 predictions = []
 for index, row in df.iterrows():
@@ -22,7 +25,7 @@ correct = (df["POS"] == df["prediction"]).sum()
 accuracy = correct / len(df)
 
 print("=== HASIL EVALUASI ===")
-print(f"Total data   : {len(df)}")
+print(f"Total data   : {len(df)} (sama excluded)")
 print(f"Benar        : {correct}")
 print(f"Salah        : {len(df) - correct}")
 print(f"Akurasi      : {accuracy:.2%}")

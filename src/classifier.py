@@ -47,8 +47,15 @@ def classify(word, constituent):
         else:
             return "PREP"
     
+    # Sama: excluded from rule-based classification
+    # Category shift is not determined by the following constituent,
+    # requiring structural analysis beyond this system's scope
+    elif word == "sama":
+        return "EXCLUDED"
+    
     else:
         return "UNKNOWN"
+
 
 if __name__ == "__main__":
     tes = [

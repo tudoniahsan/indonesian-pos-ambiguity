@@ -1,33 +1,39 @@
-id,word,sentence,following_constituent,POS,has_predicate,prediction
-11,sejak,kesibukan di dapur sudah terlihat sejak dini hari,dini hari,PREP,NO,CONJ
-12,sejak,sejak itulah petualangan mereka dimulai hingga mereka duduk di bangku kuliah,itulah petualangan mereka dimulai,PREP,NO,CONJ
-16,sejak,ada dua pasang mata yang mengawasi dari alas lali jiwo sejak kedatangannya di sabana lembah kidang,kedatangannya di sabana,CONJ,YES,PREP
-17,sejak,sejak kedatangannya ke asrama alam bawah sadarnya seperti merasakan ada sesuatu yang berbeda,kedatangannya ke asrama,CONJ,YES,PREP
-18,sejak,sejak sebelum bekerja di perusahaan ini hendro memang getol sekali berburu bendabenda pusaka,sebelum bekerja di perusahaan ini,CONJ,YES,PREP
-19,sejak,sejak datang tadi belum sepatah kata keluar dari mulutnya,datang tadi,CONJ,YES,PREP
-20,sejak,kegemaran ini didapat sejak masih tinggal di bandung,masih tinggal di bandung,CONJ,YES,PREP
-21,sejak,sejak mbak asti bekerja baru sekali itu beliau berkesempatan menyambangi keponakannya,mbak asti bekerja,CONJ,YES,PREP
-22,sejak,tumben sejak kapan kamu percaya cerita seperti itu,kapan kamu percaya,ADV,YES,CONJ
-23,sejak,lalu sebenarnya sejak kapan kinanti meminjam badan mila,kapan kinanti meminjam,ADV,YES,CONJ
-31,karena,karena tidak ada acara pelatihan suasana jadi sangat sepi,tidak ada acara pelatihan,CONJ,YES,PREP
-36,karena,malah dia ikut turun dari kendaraannya karena saat itu kebelet pipis,saat itu kebelet pipis,CONJ,YES,PREP
-50,karena,padahal cuaca saat itu tidak begitu mendukung karena sedang musim hujan,sedang musim hujan,PREP,NO,CONJ
-55,sebelum,sebelum pergi dia dibekali beberapa benda pusaka,pergi,CONJ,YES,PREP
-56,sebelum,terengahengah ketika mereka akhirnya sampai di ujung lembah sebelum masuk hutan,masuk hutan,CONJ,YES,PREP
-57,sebelum,sebelum masuk ke ruang tamu beliau menyempatkan diri melihatlihat ke sekeliling asrama,masuk ke ruang tamu,CONJ,YES,PREP
-61,sebelum,sebelum maghrib tiba kami sudah sampai di basecamp ranupani,maghrib tiba,CONJ,YES,PREP
-65,sebelum,sebelum tinggal di perumahan ini kami tinggal di sebuah rumah kontrakan,tinggal di perumahan ini,CONJ,YES,PREP
-72,untuk,orang tua pinkan dan rama akhirnya memutuskan untuk kembali ke basecamp ranupani,kembali ke basecamp,CONJ,YES,PREP
-75,untuk,malam itu mbak asti meminta om unggul untuk datang ke asrama,datang ke asrama,CONJ,YES,PREP
-83,untuk,untuk sampai ke sana mbak asti harus melewati sejumlah gedung,sampai ke sana,CONJ,YES,PREP
-84,untuk,namun kami terus berusaha untuk tidak panik,tidak panik,CONJ,YES,PREP
-127,setelah,setelah semua clear kami lalu berkumpul di ruangan depan,semua clear,CONJ,YES,PREP
-136,setelah,setelah evakuasi selesai dua burung merak itu menghilang,evakuasi selesai,CONJ,YES,PREP
-155,sampai,ari sampai pingsan,pingsan,ADV,YES,PREP
-157,sampai,sampai hari ini sampai aku dewasa kejadian malam itu tak pernah terjawab,hari ini,PREP,NO,VERB
-158,sampai,sejak peristiwa itu sampai hari ini tidak ada lagi kejadiankejadian aneh di dalam asrama,hari ini,PREP,NO,VERB
-159,akan,maaf pak kalau kedatangan kami membangkitkan kembali kenangan akan almarhumah arini,almarhumah arini,PREP,NO,ADV
-160,akan,kali ini dia sudah tidak peduli akan kesunyian asrama,kesunyian asrama,PREP,NO,ADV
-161,akan,tibatiba muncul keraguan akan sikap tetangga di kampung ini,sikap tetangga di kampung ini,PREP,NO,ADV
-177,akan,dia nggak akan ngapangapain,ngapangapain,ADV,YES,PREP
-187,buat,tapi menurut kepercayaan jawa sabtu pahing memang hari pantangan buat pergi,pergi,CONJ,YES,PREP
+id,word,sentence,following_constituent,POS,has_predicate,has_pronoun,has_modal,token_length,prediction
+12,sejak,pengalaman aneh pak rusdi kesibukan di dapur sudah terlihat sejak dini hari,dini hari,PREP,YES,NO,NO,2,CONJ
+13,sejak,sejak itulah petualangan mereka dimulai hingga mereka duduk di bangku kuliah,itulah petualangan mereka dimulai,PREP,YES,YES,NO,4,CONJ
+17,sejak,ada dua pasang mata yang mengawasi dari alas lali jiwo sejak kedatangannya di sabana lembah kidang,kedatangannya di sabana,CONJ,NO,NO,NO,3,PREP
+19,sejak,sejak sebelum bekerja di perusahaan ini hendro memang getol sekali berburu bendabenda pusaka,sebelum bekerja di perusahaan ini,CONJ,NO,NO,NO,5,PREP
+20,sejak,sejak datang tadi belum sepatah kata keluar dari mulutnya,datang tadi,CONJ,NO,NO,NO,2,PREP
+21,sejak,kegemaran ini didapat sejak masih tinggal di bandung,masih tinggal di bandung,CONJ,NO,NO,NO,4,PREP
+22,sejak,sejak mbak asti bekerja baru sekali itu belau berkesempatan menyambangi keponakannya,mbak asti bekerja,CONJ,NO,NO,NO,3,PREP
+23,sejak,tumben sejak kapan kamu percaya cerita seperti itu yo,kapan kamu percaya,ADV,NO,YES,NO,3,CONJ
+24,sejak,lalu sebenarnya sejak kapan kinanti meminjam badan mila ya,kapan kinanti meminjam,ADV,YES,NO,NO,3,CONJ
+32,karena,karena tidak ada acara pelatihan suasana jadi sangat sepi,tidak ada acara pelatihan,CONJ,NO,NO,NO,4,PREP
+36,karena,wawan sempat mengajak saya tapi saya nggak bisa karena ada kerjaan,ada kerjaan,CONJ,NO,NO,NO,2,PREP
+39,karena,malah dia ikut turun dari kendaraannya karena saat itu kebelet pipis,saat itu kebelet pipis,CONJ,NO,NO,NO,4,PREP
+40,karena,mungkin karena anak bungsu dia suka sekali dengan anak kecil,anak kecil,CONJ,NO,NO,NO,2,PREP
+55,karena,padahal cuaca saat itu tidak begitu mendukung karena sedang musim hujan,sedang musim hujan,PREP,NO,NO,YES,3,CONJ
+61,sebelum,sebelum pergi dia dibekali beberapa benda pusaka,pergi,CONJ,NO,NO,NO,1,PREP
+62,sebelum,terengahengah ketika mereka akhirnya sampai di ujung lembah sebelum masuk hutan,masuk hutan,CONJ,NO,NO,NO,2,PREP
+63,sebelum,sebelum masuk ke ruang tamu beliau menyempatkan diri melihatlihat ke sekeliling asrama karyawan diikuti oleh mbak asti,masuk ke ruang tamu,CONJ,NO,NO,NO,4,PREP
+67,sebelum,memulai proses pencarian sesuai perkiraan sebelum maghrib tiba kami sudah sampai di basecamp ranupani,maghrib tiba,CONJ,NO,NO,NO,2,PREP
+71,sebelum,sebelum tinggal di perumahan ini kami tinggal di sebuah rumah kontrakan yang berbatasan dengan area pemakaman,tinggal di perumahan ini,CONJ,NO,NO,NO,4,PREP
+78,untuk,orang tua pinkan dan rama akhirnya memutuskan untuk kembali ke basecamp ranupani,kembali ke basecamp,CONJ,NO,NO,NO,3,PREP
+81,untuk,malam itu mbak asti meminta om unggul untuk datang ke asrama,datang ke asrama,CONJ,NO,NO,NO,3,PREP
+91,untuk,untuk sampai ke sana mbak asti harus melewati sejumlah gedung di sisi kiri dan kanan jalan selebar enam meter,sampai ke sana,CONJ,NO,NO,NO,3,PREP
+92,untuk,namun kami terus berusaha untuk tidak panik,tidak panik,CONJ,NO,NO,NO,2,PREP
+109,untuk,tidak butuh waktu lama aku membuat mi instan dan kopi untuk kami bertiga,kami bertiga,PREP,YES,YES,NO,2,CONJ
+114,untuk,setiap sore di depan rumah kami biasanya ramai oleh penduduk desa sekitar yang mencari rumput untuk pakan ternak,menikmati sore,PREP,YES,NO,NO,2,CONJ
+121,dengan,beberapa kali mereka berpapasan dengan para pendaki yang turun,para pendaki yang turun,CONJ,NO,NO,NO,4,PREP
+127,dengan,tubuhnya diam mematung dengan pandangan mata lurus ke depan,pandangan mata lurus ke depan,CONJ,NO,NO,NO,5,PREP
+153,setelah,setelah semua clear kami lalu berkumpul di ruangan depan membahas beberapa langkah yang harus dilakukan terkait penghuni di kontrakan ini,semua clear,CONJ,NO,NO,NO,2,PREP
+162,setelah,setelah evakuasi selesai dua burung merak itu menghilang,evakuasi selesai,CONJ,NO,NO,NO,2,PREP
+177,sampai,tepat sebelum maghrib keduanya sampai di basecamp bambangan rumah pak bau,maghrib,VERB,NO,NO,NO,1,PREP
+181,sampai,ari sampai pingsan,pingsan,ADV,NO,NO,NO,1,PREP
+183,sampai,sampai hari ini sampai aku dewasa kejadian malam itu tak pernah terjawab,hari ini,PREP,NO,NO,NO,2,VERB
+184,sampai,sejak peristiwa itu sampai hari ini tidak ada lagi kejadiankejadian aneh di dalam asrama,hari ini,PREP,NO,NO,NO,2,VERB
+185,akan,maaf pak kalau kedatangan kami membangkitkan kembali kenangan akan almarhumah arini,almarhumah arini,PREP,NO,NO,NO,2,ADV
+186,akan,kali ini dia sudah tidak peduli akan kesunyian asrama,kesunyian asrama,PREP,NO,NO,NO,2,ADV
+187,akan,tibatiba muncul keraguan akan sikap tetangga di kampung ini,sikap tetangga di kampung ini,PREP,NO,NO,NO,5,ADV
+205,akan,dia nggak akan ngapangapain,ngapangapain,ADV,NO,NO,NO,1,PREP
+215,buat,tapi menurut kepercayaan jawa sabtu pahing memang hari pantangan buat pergi,pergi,CONJ,NO,NO,NO,1,PREP

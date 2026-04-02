@@ -13,6 +13,9 @@ from sklearn.metrics import accuracy_score, classification_report
 # Load dataset
 df = load_dataset("dataset/dataset.csv")
 
+# Exclude sama — category shift not determined by following constituent
+df = df[df['word'] != 'sama'].copy()
+
 # Extract features untuk setiap baris
 feature_list = []
 for index, row in df.iterrows():
@@ -54,16 +57,19 @@ y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 
 print("=== ML CLASSIFIER RESULTS ===")
-print(f"Test set size  : {len(X_test)} sentences")
-print(f"Akurasi ML     : {accuracy:.2%}")
+print(f"Total evaluated : 215 (sama excluded)")
+print(f"Train set       : {len(X_train)} sentences")
+print(f"Test set        : {len(X_test)} sentences")
+print(f"Akurasi ML      : {accuracy:.2%}")
 print()
 print("=== COMPARISON ===")
-print(f"Rule-based     : 82.89%")
-print(f"ML (Logistic)  : {accuracy:.2%}")
+print(f"Rule-based      : 82.33% (215 sentences evaluated)")
+print(f"ML (Logistic)   : {accuracy:.2%} (test set only, 80/20 split)")
 print()
 print("=== DETAIL PER KELAS ===")
 print(classification_report(
     y_test, y_pred,
     labels=range(len(label_encoder.classes_)),
-    target_names=label_encoder.classes_
+    target_names=label_encoder.classes_,
+    zero_division=0
 ))

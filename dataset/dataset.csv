@@ -1,188 +1,223 @@
-id,word,sentence,following_constituent,POS,has_predicate
-1,sejak,Sejak awal pendakian mereka selalu berada di belakang rombongan Rio,awal pendakian,PREP,NO
-2,sejak,Sejak dari basecamp Beni sudah memberi kabar kepada Rio terkait kedatangan kami berdua,dari basecamp,PREP,NO
-3,sejak,Sejak dari Oro-Oro Ombo teman lainnya sudah memintanya untuk berhenti sebentar,dari Oro-Oro Ombo,PREP,NO
-4,sejak,Mas Deni sejak kecil dikenal pemberani,kecil,PREP,NO
-5,sejak,Sejak kecil Mila memang hobi menggambar,kecil,PREP,NO
-6,sejak,Sejak peristiwa kecelakaan itu keluarga kami sudah tidak pernah lagi berhubungan dengan dia,peristiwa kecelakaan itu,PREP,NO
-7,sejak,Iya Om aku juga merasakan hal serupa sejak pertama kali ke sini,pertama kali ke sini,PREP,NO
-8,sejak,Dia pergi sejak sebelum Maghrib,sebelum Maghrib,PREP,NO
-9,sejak,Ini masalah yang sensitif dan bisa menimbulkan kesalahpahaman jika tidak dikomunikasikan sejak awal,awal,PREP,NO
-10,sejak,Terkonfirmasi kedua survivor adalah anggota Mapala Hargo Inggil yang menuju basecamp Cibodas sejak empat hari yang lalu,empat hari yang lalu,PREP,NO
-11,sejak,Kesibukan di dapur sudah terlihat sejak dini hari,dini hari,PREP,NO
-12,sejak,Sejak itulah petualangan mereka dimulai hingga mereka duduk di bangku kuliah,itulah petualangan mereka dimulai,PREP,NO
-13,sejak,Dia sudah menduga akan adanya kejadian ini sejak awal kami masuk,awal kami masuk,CONJ,YES
-14,sejak,Sejak berangkat sampai terakhir di Samaranthu itu Mila sudah bener-benar berubah,berangkat sampai terakhir,CONJ,YES
-15,sejak,Sejak berangkat tadi posisi daypack itu diletakkan di atas carrier,berangkat tadi,CONJ,YES
-16,sejak,Ada dua pasang mata yang mengawasi dari Alas Lali Jiwo sejak kedatangannya di sabana Lembah Kidang,kedatangannya di sabana,CONJ,YES
-17,sejak,Sejak kedatangannya ke asrama alam bawah sadarnya seperti merasakan ada sesuatu yang berbeda,kedatangannya ke asrama,CONJ,YES
-18,sejak,Sejak sebelum bekerja di perusahaan ini Hendro memang getol sekali berburu benda-benda pusaka,sebelum bekerja di perusahaan ini,CONJ,YES
-19,sejak,Sejak datang tadi belum sepatah kata keluar dari mulutnya,datang tadi,CONJ,YES
-20,sejak,Kegemaran ini didapat sejak masih tinggal di Bandung,masih tinggal di Bandung,CONJ,YES
-21,sejak,Sejak Mbak Asti bekerja baru sekali itu beliau berkesempatan menyambangi keponakannya,Mbak Asti bekerja,CONJ,YES
-22,sejak,Tumben sejak kapan kamu percaya cerita seperti itu,kapan kamu percaya,ADV,YES
-23,sejak,Lalu sebenarnya sejak kapan Kinanti meminjam badan Mila,kapan Kinanti meminjam,ADV,YES
-24,karena,Kali ini bukan hanya Janu tapi ayah Rama juga terkejut karena dia tidak asing lagi dengan suaranya,dia tidak asing lagi,CONJ,YES
-25,karena,Dia sempat berdebat alot dengan kepala asrama karena dia tidak mau peristiwa hilangnya Pak Hendro tersebar,dia tidak mau,CONJ,YES
-26,karena,Tapi akhirnya kepala asrama itu menyerah karena dia tidak tahu bagaimana mencari solusi atas kasus itu,dia tidak tahu,CONJ,YES
-27,karena,Mbak Asti bercerita kepada Om Unggul karena dia merasa ikut bertanggung jawab secara moral,dia merasa ikut bertanggung jawab,CONJ,YES
-28,karena,Anya menjawab dengan suara agak keras karena dia berdiri agak jauh dari kamar Mila,dia berdiri agak jauh,CONJ,YES
-29,karena,Peristiwa ini sangat membekas karena dia memiliki hubungan yang sangat dekat dengan ayahnya,dia memiliki hubungan,CONJ,YES
-30,karena,Janu yang salah karena dia pergi,dia pergi,CONJ,YES
-31,karena,Karena tidak ada acara pelatihan suasana jadi sangat sepi,tidak ada acara pelatihan,CONJ,YES
-32,karena,Karena tidak ada keluarga yang mengakui jasadnya dimakamkan di lahan tanah kuburan,tidak ada keluarga yang mengakui,CONJ,YES
-33,karena,Rumah itu kosong karena hanya dijadikan tempat singgah saat keluarganya berkunjung ke Jawa Timur,hanya dijadikan tempat singgah,CONJ,YES
-34,karena,Karena sudah malam kegiatan pencarian dilanjutkan keesokan harinya,sudah malam,CONJ,YES
-35,karena,Karena dianggap mengada-ada kedua anak buah Mbak Asti itu akhirnya kembali lagi ke dapur,dianggap mengada-ada,CONJ,YES
-36,karena,Malah dia ikut turun dari kendaraannya karena saat itu kebelet pipis,saat itu kebelet pipis,CONJ,YES
-37,karena,Kali ini memang hanya kami bertiga yang berangkat karena Ari dan Teguh sedang berhalangan,Ari dan Teguh sedang berhalangan,CONJ,YES
-38,karena,Rio protes karena barang yang sudah dipesannya dijual ke orang lain,barang yang sudah dipesannya dijual,CONJ,YES
-39,karena,Karena budenya tidak memiliki anak perempuan maka jadilah Kinanti seperti ratu dalam keluarganya,budenya tidak memiliki anak perempuan,CONJ,YES
-40,karena,Dia mengajak Dina untuk menemani mereka karena kebetulan keduanya adalah kenalan Dina,kebetulan keduanya adalah kenalan Dina,CONJ,YES
-41,karena,Mungkin karena alasan itu orang yang mau ngontrak jadi berpikir ulang,alasan itu,PREP,NO
-42,karena,Beni menyampaikan maksudnya untuk turun ke Ranupani karena alasan kesehatan,alasan kesehatan,PREP,NO
-43,karena,Bukan bukan karena AC,AC,PREP,NO
-44,karena,Karena Alex teman sependakian mereka yang selamat bisa menceritakan kejadian yang mereka alami,Alex,PREP,NO
-45,karena,Kamu meninggal karena apa,apa,PREP,NO
-46,karena,Mungkin karena efek doa ibu,efek doa ibu,PREP,NO
-47,karena,Jawa Timur memang menarik karena eksotisme alam dan jalur pendakiannya yang ekstrem,eksotisme alam,PREP,NO
-48,karena,Kali ini beliau menyediakan waktu khusus karena esoknya libur kantor,esoknya libur kantor,PREP,NO
-49,karena,Aku tak mau membuat Teguh khawatir karena gejala hipotermia tadi,gejala hipotermia tadi,PREP,NO
-50,karena,Padahal cuaca saat itu tidak begitu mendukung karena sedang musim hujan,sedang musim hujan,PREP,NO
-51,karena,Pada 2019 Teguh meninggal karena serangan jantung,serangan jantung,PREP,NO
-52,karena,Dina tetap mematung seperti terhipnotis karena tarian itu,tarian itu,PREP,NO
-53,sebelum,Winda mendengarkan detail cerita Janu dengan seksama sebelum akhirnya dia menghela napas,akhirnya dia menghela napas,CONJ,YES
-54,sebelum,Hanya satu tahun Hendro tinggal di rumah itu sebelum akhirnya diterima bekerja di sebuah perusahaan perkebunan,akhirnya diterima bekerja,CONJ,YES
-55,sebelum,Sebelum pergi dia dibekali beberapa benda pusaka,pergi,CONJ,YES
-56,sebelum,Terengah-engah ketika mereka akhirnya sampai di ujung lembah sebelum masuk hutan,masuk hutan,CONJ,YES
-57,sebelum,Sebelum masuk ke ruang tamu beliau menyempatkan diri melihat-lihat ke sekeliling asrama,masuk ke ruang tamu,CONJ,YES
-58,sebelum,Sebelum berangkat ke Gunung Slamet Pak Drajat kembali lagi ke kamar Mila,berangkat ke Gunung Slamet,CONJ,YES
-59,sebelum,Rama juga akan berpamitan sebelum mendaki Gunung Semeru bersama Janu,mendaki Gunung Semeru,CONJ,YES
-60,sebelum,Dikumpulkannya keberaniannya sebelum dia melangkah mendekati kedua mahluk itu,dia melangkah mendekati,CONJ,YES
-61,sebelum,Sebelum Maghrib tiba kami sudah sampai di basecamp Ranupani,Maghrib tiba,CONJ,YES
-62,sebelum,Seluruh tim relawan mengikuti briefing sebelum memulai proses pencarian,memulai proses pencarian,CONJ,YES
-63,sebelum,Sebelum menikah beliau juga tinggal di rumah yang sekarang jadi tempat kos Mila,menikah,CONJ,YES
-64,sebelum,Pagi hari sebelum meninggal Bu Dewi datang ke sini,meninggal,CONJ,YES
-65,sebelum,Sebelum tinggal di perumahan ini kami tinggal di sebuah rumah kontrakan,tinggal di perumahan ini,CONJ,YES
-66,sebelum,Tepat sebelum Maghrib keduanya sampai di Basecamp Bambangan,Maghrib,PREP,NO
-67,sebelum,Dia pergi sejak sebelum Maghrib,Maghrib,PREP,NO
-68,sebelum,Sehari sebelum penutupan acara Management Training Mbak Asti mendapatkan pengalaman yang aneh,penutupan acara,PREP,NO
-69,sebelum,Beberapa hari sebelum peristiwa itu kamarnya memang terasa lebih dingin dari biasanya,peristiwa itu,PREP,NO
-70,untuk,Pinkan tahu dia tidak akan mampu menghalangi niat Rama untuk mendaki Gunung Semeru,mendaki Gunung Semeru,CONJ,YES
-71,untuk,Kinanti selalu datang ke Bambangan untuk mendaki atau sekadar silaturahmi,mendaki atau sekadar silaturahmi,CONJ,YES
-72,untuk,Orang tua Pinkan dan Rama akhirnya memutuskan untuk kembali ke basecamp Ranupani,kembali ke basecamp,CONJ,YES
-73,untuk,Dia seperti menggunakan seluruh energinya untuk melakukan ritual ini,melakukan ritual ini,CONJ,YES
-74,untuk,Kinanti minta izin untuk bisa menempati salah satu kamar di paviliun,bisa menempati salah satu kamar,CONJ,YES
-75,untuk,Malam itu Mbak Asti meminta Om Unggul untuk datang ke asrama,datang ke asrama,CONJ,YES
-76,untuk,Kami diminta untuk duduk dengan membentuk lingkaran,duduk dengan membentuk lingkaran,CONJ,YES
-77,untuk,Aku disergap keraguan antara harus menyusul Teguh atau turun untuk meminta bantuan penduduk,meminta bantuan penduduk,CONJ,YES
-78,untuk,Beni berteriak agak keras untuk mengusir rasa takut yang mulai menjalari nyali,mengusir rasa takut,CONJ,YES
-79,untuk,Perempuan itu minta Mas Deni untuk berhenti sebentar,berhenti sebentar,CONJ,YES
-80,untuk,Beni lalu berinisiatif menelepon temannya di Malang untuk memastikan kabar itu,memastikan kabar itu,CONJ,YES
-81,untuk,Bu Rahmi berinisiatif untuk membuat kos-kosan,membuat kos-kosan,CONJ,YES
-82,untuk,Seluruh potensi SAR yang dimiliki Mapala dikerahkan untuk mencari info,mencari info,CONJ,YES
-83,untuk,Untuk sampai ke sana Mbak Asti harus melewati sejumlah gedung,sampai ke sana,CONJ,YES
-84,untuk,Namun kami terus berusaha untuk tidak panik,tidak panik,CONJ,YES
-85,untuk,Di dekat mata air mereka mendirikan camp untuk beristirahat,beristirahat,CONJ,YES
-86,untuk,Untuk kesekian kalinya aku dan Teguh berpandangan,kesekian kalinya,PREP,NO
-87,untuk,Untuk kesekian kalinya Pak Yuli menanyakan keberadaan Rama,kesekian kalinya,PREP,NO
-88,untuk,Malam itu adalah malam duka untuk mereka semua,mereka semua,PREP,NO
-89,untuk,Tidak jarang juga Kinanti membawakan oleh-oleh untuk mereka di Gunung Slamet,mereka di Gunung Slamet,PREP,NO
-90,untuk,Letaknya tidak terlalu jauh dari dapur yang sedang menyiapkan kebutuhan untuk peserta pelatihan,peserta pelatihan,PREP,NO
-91,untuk,Untuk beberapa saat lamanya keempat makhluk itu hanya saling berpandangan,beberapa saat lamanya,PREP,NO
-92,untuk,Keduanya duduk di deretan paling belakang yang tempat duduknya hanya untuk dua orang,dua orang,PREP,NO
-93,untuk,Sebuah amplop surat yang dialamatkan untuk Eyang,Eyang,PREP,NO
-94,untuk,Ini boneka yang dibeli Rama untuk hadiah ulang tahun Pinkan,hadiah ulang tahun Pinkan,PREP,NO
-95,untuk,Mila menabur bunga untuk siapa,siapa,PREP,NO
-96,dengan,Dengan suara bergetar karena menahan tangis ibu Pinkan mengatakan bahwa ciri-ciri pemuda itu mirip Rama,suara bergetar,CONJ,YES
-97,dengan,Pak Yuli bertanya dengan suara bergetar menahan takut,suara bergetar menahan takut,CONJ,YES
-98,dengan,Ada perasaan lega yang tersirat di wajah Rio begitu melihat pemilik konter itu kembali dengan membawa carrier pesanannya,membawa carrier pesanannya,CONJ,YES
-99,dengan,Mereka biasanya datang dengan membawa seorang paranormal,membawa seorang paranormal,CONJ,YES
-100,dengan,Perempuan itu akhirnya pergi dengan diiringi hembusan angin,diiringi hembusan angin,CONJ,YES
-101,dengan,Dia meninggal karena bunuh diri dengan menabrakkan tubuhnya ke kereta api,menabrakkan tubuhnya ke kereta api,CONJ,YES
-102,dengan,Mereka berniat merayakan pertunangan dengan mendaki Gunung Slamet,mendaki Gunung Slamet,CONJ,YES
-103,dengan,Dengan mengucapkan salam terlebih dahulu Beni masuk rumah satu per satu,mengucapkan salam terlebih dahulu,CONJ,YES
-104,dengan,Pagi harinya beberapa teman dari survivor melakukan pencarian dengan menuruni jurang,menuruni jurang,CONJ,YES
-105,dengan,Aku memberikan kode dengan mengacungkan jempol,mengacungkan jempol,CONJ,YES
-106,dengan,Hingga suatu ketika dia berhasil membunuh perempuan itu dengan menusukkan pisau tepat di jantungnya,menusukkan pisau,CONJ,YES
-107,dengan,Dia bahkan menghukum Arini dengan melarangnya keluar rumah,melarangnya keluar rumah,CONJ,YES
-108,dengan,Beliau kenal baik dengan Pak Bau selaku juru kunci Gunung Slamet di Bambangan,Pak Bau,PREP,NO
-109,dengan,Mila menjadi yang terakhir berpamitan dengan Pak Bau,Pak Bau,PREP,NO
-110,dengan,Dari cerita Pak RT dapat disimpulkan alasan kenapa rumah disewakan dengan harga murah,harga murah,PREP,NO
-111,dengan,Bahkan Rio sempat berkenalan dengan kedua perempuan itu,kedua perempuan itu,PREP,NO
-112,dengan,Aku peluk ibuku yang masih sedikit terguncang dengan kejadian ini,kejadian ini,PREP,NO
-113,dengan,Teguh dan Beni kembali mencoba mengaitkannya dengan peristiwa di dalam kereta,peristiwa di dalam kereta,PREP,NO
-114,dengan,Maka dibangunlah tiga kamar di halaman yang bersebelahan dengan rumah induk,rumah induk,PREP,NO
-115,dengan,Rumahnya sangat dekat dengan rumah kontrakan kami,rumah kontrakan kami,PREP,NO
-116,dengan,Sebenarnya jarak dengan rumah tetangga tidak terlalu dekat juga,rumah tetangga,PREP,NO
-117,dengan,Pak Drajat tidak kaget lagi dengan pertanyaan dari Sisi,pertanyaan dari Sisi,PREP,NO
-118,dengan,Namun sebelumnya aku diskusikan dulu dengan semua teman,semua teman,PREP,NO
-119,dengan,Mungkin karena anak bungsu dia suka sekali dengan anak kecil,anak kecil,PREP,NO
-120,dengan,Kami tinggal di sebuah rumah kontrakan yang berbatasan dengan area pemakaman,area pemakaman,PREP,NO
-121,setelah,Mila sendiri akhirnya pindah kamar setelah mendapat cerita dari teman-temannya tentang kejadian hari itu,mendapat cerita dari teman-temannya,CONJ,YES
-122,setelah,Tidak lama setelah mendapat laporan kepolisian langsung datang ke asrama,mendapat laporan,CONJ,YES
-123,setelah,Setelah mendapat pekerjaan hingga akhirnya menikahi Dewi Hendro sudah tidak lagi menjadi pemburu benda-benda pusaka,mendapat pekerjaan,CONJ,YES
-124,setelah,Suara Pak Bau bergetar sesaat setelah melihat foto yang ditunjukkan Pak Drajat,melihat foto,CONJ,YES
-125,setelah,Malam itu setelah selesai membagikan bingkisan kepada tetangga semua kembali dan berkumpul di basecamp,selesai membagikan bingkisan,CONJ,YES
-126,setelah,Tapi setelah ditunggu sampai sore survivor tidak kunjung sampai,ditunggu sampai sore,CONJ,YES
-127,setelah,Setelah semua clear kami lalu berkumpul di ruangan depan,semua clear,CONJ,YES
-128,setelah,Namun sesaat setelah Beni berdiri tiba-tiba pintu rumah terbuka sendiri,Beni berdiri,CONJ,YES
-129,setelah,Setelah Beni menelepon temannya akhirnya kabar meninggalnya Dani terkonfirmasi,Beni menelepon temannya,CONJ,YES
-130,setelah,Setelah meneguk air putih sampai setengah gelas dia mulai bercerita,meneguk air putih,CONJ,YES
-131,setelah,Setelah menerima pembayaran kopinya dia bergegas pergi,menerima pembayaran kopinya,CONJ,YES
-132,setelah,Setelah menyelesaikan sekolah kejuruan di Purwokerto dia merantau ke Jakarta,menyelesaikan sekolah kejuruan,CONJ,YES
-133,setelah,Rupanya beliau agak gusar setelah Pak Drajat menerima telepon dari Pak Sudi,Pak Drajat menerima telepon,CONJ,YES
-134,setelah,Setelah pintu dibuka kami semua mengikutinya dari belakang,pintu dibuka,CONJ,YES
-135,setelah,Pagi itu Rio berpamitan kepada kami beberapa saat setelah Dani menyalami kami,Dani menyalami kami,CONJ,YES
-136,setelah,Setelah evakuasi selesai dua burung merak itu menghilang,evakuasi selesai,CONJ,YES
-137,setelah,Setelah kedua orang tuanya meninggal Bu Rahmi menempati rumah itu,kedua orang tuanya meninggal,CONJ,YES
-138,setelah,Akan ada apa lagi setelah semua ini,semua ini,PREP,NO
-139,setelah,Kehidupan rumah tangga mereka semakin memburuk setelah kepergian Kinanti,kepergian Kinanti,PREP,NO
-140,setelah,Hari ketiga setelah acara pelatihan Hendro menyambangi pohon beringin di sudut tanah kuburan itu,acara pelatihan,PREP,NO
-141,setelah,Hanya setelah malam itu berbagai kejadian aneh terjadi di kehidupan kami bertiga,malam itu,PREP,NO
-142,hingga,Kami masih bertetangga hingga hari ini,hari ini,PREP,NO
-143,hingga,Namun hingga empat hari pencarian jejak mereka tidak ditemukan,empat hari pencarian,PREP,NO
-144,hingga,Di sebelah selatan berbatasan dengan beberapa ruko yang hanya buka hingga sore hari saja,sore hari saja,PREP,NO
-145,hingga,Hingga pada suatu hari kami mendapati ada rumah kontrakan yang disewakan dengan harga murah,pada suatu hari,PREP,NO
-146,hingga,Dia justru semakin penasaran hingga timbul niat untuk menarik benda pusaka yang ada di asrama itu,timbul niat untuk menarik benda pusaka,CONJ,YES
-147,hingga,Suaranya keras sekali hingga mengundang perhatian tetangga,mengundang perhatian tetangga,CONJ,YES
-148,hingga,Seminggu setelah penemuan topi itu jejak keduanya tidak pernah ditemukan hingga mereka berdua secara resmi dinyatakan hilang,mereka berdua secara resmi dinyatakan hilang,CONJ,YES
-149,hingga,Setelah mendapat pekerjaan hingga akhirnya menikahi Dewi Hendro sudah tidak lagi menjadi pemburu benda-benda pusaka,akhirnya menikahi Dewi,CONJ,YES
-150,sampai,Kereta Ekspres Matarmaja yang membawa Beni Teguh dan Ari akhirnya sampai di stasiun Kota Baru Malang,di stasiun Kota Baru Malang,VERB,NO
-151,sampai,Tepat sebelum Maghrib keduanya sampai di Basecamp Bambangan rumah Pak Bau,di Basecamp Bambangan,VERB,NO
-152,sampai,Akhirnya aku dan Bu Nela sampai di depan kos Mila,di depan kos Mila,VERB,NO
-153,sampai,Rio bahkan sampai menangis dia teringat peristiwa serupa pernah menimpa sahabatnya,menangis,ADV,YES
-154,sampai,Bukan hal mudah bagi keluarga untuk melupakan trauma ketika ada anggota keluarga yang hilang apalagi sampai meninggal di gunung,meninggal di gunung,ADV,YES
-155,sampai,Ari sampai pingsan,pingsan,ADV,YES
-156,sampai,Sampai Maghrib dia duduk bersimpuh di pusara Mbak Pinkan,Maghrib,PREP,NO
-157,sampai,Sampai hari ini sampai aku dewasa kejadian malam itu tak pernah terjawab,hari ini,PREP,NO
-158,sampai,Sejak peristiwa itu sampai hari ini tidak ada lagi kejadian-kejadian aneh di dalam asrama,hari ini,PREP,NO
-159,akan,Maaf Pak kalau kedatangan kami membangkitkan kembali kenangan akan almarhumah Arini,almarhumah Arini,PREP,NO
-160,akan,Kali ini dia sudah tidak peduli akan kesunyian asrama,kesunyian asrama,PREP,NO
-161,akan,Tiba-tiba muncul keraguan akan sikap tetangga di kampung ini,sikap tetangga di kampung ini,PREP,NO
-162,akan,Ayah Rama bertanya kepada Pak Yuli yang juga tidak mengira akan ada kejadian seperti ini,ada kejadian seperti ini,ADV,YES
-163,akan,Keluarga tidak akan melakukan perpanjangan semua sudah mengikhlaskan kepergian Rama,melakukan perpanjangan,ADV,YES
-164,akan,Sepertinya cerita tentang Kinanti ini akan semakin menarik karena semakin melibatkan banyak orang,semakin menarik,ADV,YES
-165,akan,Sebenarnya dia sudah khawatir akan terjadi sesuatu tapi tidak tahu apa yang harus diperbuat,terjadi sesuatu,ADV,YES
-166,akan,Baik kami akan berusaha menemukan dia,berusaha menemukan dia,ADV,YES
-167,akan,Mereka seperti tahu apa yang akan dilakukan Pak Drajat,dilakukan Pak Drajat,ADV,YES
-168,akan,Saat itu dia akan kembali ke tempat duduknya setelah menutup kedua pintu,kembali ke tempat duduknya,ADV,YES
-169,akan,Rencananya mereka berempat akan mendaki Gunung Arjuno lewat jalur Tretes,mendaki Gunung Arjuno,ADV,YES
-170,akan,Ini akan menjadi sebuah pendakian panjang,menjadi sebuah pendakian panjang,ADV,YES
-171,akan,Rama menolak karena akan berfoto bareng dua pendaki lain,berfoto bareng dua pendaki lain,ADV,YES
-172,akan,Setelah itu mereka akan berkumpul sejenak di ruang pertemuan untuk mendengarkan pidato penutupan,berkumpul sejenak di ruang pertemuan,ADV,YES
-173,akan,Rama juga akan berpamitan sebelum mendaki Gunung Semeru bersama Janu,berpamitan sebelum mendaki,ADV,YES
-174,akan,Pada malam Jumat proses penarikan benda pusaka dari tanah kuburan akan dilakukan,dilakukan,ADV,YES
-175,akan,Besok pencarian akan dilanjutkan ke area puncak,dilanjutkan ke area puncak,ADV,YES
-176,akan,Mereka pasti akan menampakkan diri lagi,menampakkan diri lagi,ADV,YES
-177,akan,Dia nggak akan ngapa-ngapain,ngapa-ngapain,ADV,YES
-178,akan,Kami semua akan selalu mendoakanmu,selalu mendoakanmu,ADV,YES
-179,buat,Itu masih jadi teka-teki buat saya sampai hari ini,saya,PREP,NO
-180,buat,Wan ambilin air putih buat Mas,Mas,PREP,NO
-181,buat,Aku sorongkan segelas air putih buat Mas Deni setelah sebelumnya dibacakan doa oleh ibu,Mas Deni,PREP,NO
-182,buat,Apa yang bisa kami lakukan buat kamu Kinanti,kamu Kinanti,PREP,NO
-183,buat,Dia adalah koki yang selalu diandalkan untuk memasak buat kami,kami,PREP,NO
-184,buat,Buat dia ini hanya pertanyaan basa-basi saja,dia,PREP,NO
-185,buat,Jika sedang banyak pelatihan pekerjaan di dapur praktis tidak pernah berhenti karena harus menyediakan makan buat para peserta,para peserta,PREP,NO
-186,buat,Makan ubi dulu Mil buat mengganjal perut dan nambah energi,mengganjal perut dan nambah energi,CONJ,YES
-187,buat,Tapi menurut kepercayaan Jawa Sabtu Pahing memang hari pantangan buat pergi,pergi,CONJ,YES
+id,word,sentence,following_constituent,POS,has_predicate,has_pronoun,has_modal,token_length
+1,sejak,"Sejak awal pendakian, mereka selalu berada di belakang rombongan Rio.",awal pendakian,PREP,NO,NO,NO,2
+2,sejak,"Sejak dari basecamp, Beni sudah memberi kabar kepada Rio terkait kedatangan kami berdua.",dari basecamp,PREP,NO,NO,NO,2
+3,sejak,"Sejak dari Oro-Oro Ombo, teman lainnya sudah memintanya untuk berhenti sebentar tapi Rama memilih tetap berjalan.",dari Oro-Oro Ombo,PREP,NO,NO,NO,3
+4,sejak,Jalur Tretes ini memang dikenal kejam bagi para pendaki karena sejak dari Pos 1 mereka selalu dihajar oleh trek berbatu dan tanjakan curam.,dari Pos 1,PREP,NO,NO,NO,3
+5,sejak,"Mas Deni, sejak kecil, dikenal pemberani.",kecil,PREP,NO,NO,NO,1
+6,sejak,"Sejak kecil, Mila memang hobi menggambar.",kecil,PREP,NO,NO,NO,1
+7,sejak,"Sejak peristiwa kecelakaan itu, keluarga kami sudah tidak pernah lagi berhubungan dengan dia.",peristiwa kecelakaan itu,PREP,NO,NO,NO,3
+8,sejak,"Iya Om, aku juga merasakan hal serupa sejak pertama kali ke sini.",pertama kali ke sini,PREP,NO,NO,NO,4
+9,sejak,Dia pergi sejak sebelum Maghrib.,Maghrib,PREP,NO,NO,NO,1
+10,sejak,Ini masalah yang sensitif dan bisa menimbulkan kesalahpahaman jika tidak dikomunikasikan sejak awal.,awal,PREP,NO,NO,NO,1
+11,sejak,Terkonfirmasi kedua survivor adalah anggota Mapala Hargo Inggil yang menuju basecamp Cibodas sejak empat hari yang lalu.,empat hari yang lalu,PREP,NO,NO,NO,4
+12,sejak,Pengalaman aneh pak rusdi kesibukan di dapur sudah terlihat sejak dini hari.,dini hari,PREP,YES,NO,NO,2
+13,sejak,Sejak itulah petualangan mereka dimulai hingga mereka duduk di bangku kuliah.,itulah petualangan mereka dimulai,PREP,YES,YES,NO,4
+14,sejak,Dia sudah menduga akan adanya kejadian ini sejak awal kami masuk.,awal kami masuk,CONJ,NO,YES,NO,3
+15,sejak,"Berarti memang dari malam bisa jadi sudah masuk, soalnya pagi sejak berangkat sampai terakhir di Samaranthu itu Mila sudah bener-benar berubah.",berangkat sampai terakhir,CONJ,YES,NO,NO,3
+16,sejak,"Memang, sejak berangkat tadi, posisi daypack itu diletakkan di atas carrier karena tidak cukup tempat di bagasi.",berangkat tadi,CONJ,YES,NO,NO,2
+17,sejak,Ada dua pasang mata yang mengawasi dari Alas Lali Jiwo sejak kedatangannya di sabana Lembah Kidang.,kedatangannya di sabana,CONJ,NO,NO,NO,3
+18,sejak,"Sejak kedatangannya ke asrama yang berdiri di bekas lahan pemakaman, alam bawah sadarnya seperti merasakan ada sesuatu yang berbeda dari tempatnya bekerja.",kedatangannya ke asrama yang berdiri di bekas lahan pemakaman,CONJ,YES,NO,NO,9
+19,sejak,"Sejak sebelum bekerja di perusahaan ini, hendro memang getol sekali berburu benda-benda pusaka.",sebelum bekerja di perusahaan ini,CONJ,NO,NO,NO,5
+20,sejak,"Sejak datang tadi, belum sepatah kata keluar dari mulutnya.",datang tadi,CONJ,NO,NO,NO,2
+21,sejak,Kegemaran ini didapat sejak masih tinggal di Bandung.,masih tinggal di Bandung,CONJ,NO,NO,NO,4
+22,sejak,"Sejak Mbak Asti bekerja, baru sekali itu belau berkesempatan menyambangi keponakannya.",Mbak Asti bekerja,CONJ,NO,NO,NO,3
+23,sejak,"Tumben, sejak kapan kamu percaya cerita seperti itu, Yo?",kapan kamu percaya,ADV,NO,YES,NO,3
+24,sejak,Lalu sebenarnya sejak kapan Kinanti meminjam badan Mila ya?,kapan Kinanti meminjam,ADV,YES,NO,NO,3
+25,karena,Kali ini bukan hanya Janu tapi ayah Rama juga terkejut karena dia tidak asing lagi dengan suaranya.,dia tidak asing lagi,CONJ,NO,YES,NO,4
+26,karena,"Sebelumnya, dia sempat berdebat alot dengan kepala asrama karena dia tidak mau peristiwa hilangnya Pak Hendro tersebar kemana-mana.",dia tidak mau peristiwa hilangnya Pak Hendro tersebar kemana-mana,CONJ,YES,YES,YES,9
+27,karena,Tapi akhirnya kepala asrama itu menyerah karena dia tidak tahu bagaimana mencari solusi atas kasus itu.,dia tidak tahu,CONJ,NO,YES,NO,3
+28,karena,Mbak Asti bercerita kepada Om Unggul karena dia merasa ikut bertanggung jawab secara moral atas peristiwa itu.,dia merasa ikut bertanggung jawab,CONJ,YES,YES,NO,5
+29,karena,Anya menjawab dengan suara agak keras karena dia berdiri agak jauh dari kamar Mila.,dia berdiri agak jauh,CONJ,YES,YES,NO,4
+30,karena,"Peristiwa ini sangat membekas sampai menimbulkan dendam bagi Kinanti, karena dia memiliki hubungan yang sangat dekat dengan ayahnya.",dia memiliki hubungan yang sangat dekat dengan ayahnya,CONJ,YES,YES,NO,8
+31,karena,Janu yang salah karena dia pergi.,dia pergi,CONJ,NO,YES,NO,2
+32,karena,"Karena tidak ada acara pelatihan, suasana jadi sangat sepi.",tidak ada acara pelatihan,CONJ,NO,NO,NO,4
+33,karena,"Karena tidak ada keluarga yang mengakui, jasadnya dimakamkan di lahan tanah kuburan yang sekarang jadi asrama itu.",tidak ada keluarga yang mengakui,CONJ,YES,NO,NO,5
+34,karena,Rumah itu kosong karena hanya dijadikan tempat singgah saat keluarganya berkunjung ke Jawa Timur.,hanya dijadikan tempat singgah,CONJ,YES,NO,NO,4
+35,karena,"Maaf suami saya sedang takziah ke Jakarta, karena ada kerabat yang meninggal, sepupu almarhum Winda.",ada kerabat yang meninggal,CONJ,YES,NO,NO,4
+36,karena,Wawan sempat mengajak saya tapi saya nggak bisa karena ada kerjaan.,ada kerjaan,CONJ,NO,NO,NO,2
+37,karena,"Karena sudah malam, kegiatan pencarian dilanjutkan keesokan harinya.",sudah malam,CONJ,NO,NO,YES,2
+38,karena,"Karena dianggap mengada-ada, kedua anak buah Mbak Asti itu akhirnya kembali lagi ke dapur.",dianggap mengada-ada,CONJ,YES,NO,NO,2
+39,karena,Malah dia ikut turun dari kendaraannya karena saat itu kebelet pipis.,saat itu kebelet pipis,CONJ,NO,NO,NO,4
+40,karena,"Mungkin karena anak bungsu, dia suka sekali dengan anak kecil.",anak kecil,CONJ,NO,NO,NO,2
+41,karena,"Kali ini memang hanya kami bertiga yang berangkat karena Ari dan Teguh, dua teman yang biasa menyertai saat itu, sedang berhalangan.",Ari dan Teguh sedang berhalangan,CONJ,YES,NO,YES,5
+42,karena,Rio protes karena barang yang sudah dipesannya dijual ke orang lain.,barang yang sudah dipesannya dijual,CONJ,YES,NO,YES,5
+43,karena,"Karena budenya tidak memiliki anak perempuan, maka jadilah Kinanti seperti ratu dalam keluarganya.",budenya tidak memiliki anak perempuan,CONJ,YES,NO,NO,5
+44,karena,"Dia mengajak Dina untuk menemani mereka, karena kebetulan keduanya adalah kenalan Dina.",kebetulan keduanya adalah kenalan Dina,CONJ,YES,NO,NO,5
+45,karena,"Mungkin karena alasan itu, orang yang mau ngontrak jadi berpikir ulang.",alasan itu,PREP,NO,NO,NO,2
+46,karena,"Malam itu juga, Beni menemui ketua SRU dan menyampaikan maksudnya untuk turun ke Ranupani karena alasan kesehatan.",alasan kesehatan,PREP,NO,NO,NO,2
+47,karena,"Bukan, bukan karena AC.",AC,PREP,NO,NO,NO,1
+48,karena,"Karena Alex, teman sependakian mereka yang selamat, bisa menceritakan kejadian yang mereka alami.",Alex,PREP,NO,NO,NO,1
+49,karena,Kamu meninggal karena apa?,apa,PREP,NO,NO,NO,1
+50,karena,Mungkin karena efek doa ibu.,efek doa ibu,PREP,NO,NO,NO,3
+51,karena,Jawa Timur memang menarik karena eksotisme alam dan jalur pendakiannya yang ekstrem.,eksotisme alam,PREP,NO,NO,NO,2
+52,karena,Kali ini beliau menyediakan waktu khusus karena esoknya libur kantor.,esoknya libur kantor,PREP,NO,NO,NO,3
+53,karena,Aku tak mau membuat Teguh khawatir karena gejala hipotermia tadi.,gejala hipotermia tadi,PREP,NO,NO,NO,3
+54,karena,"Sebenarnya, lokasi rumahnya bukan di kompleks perumahan, tapi karena proses pelebaran area, akhirnya rumahnya seperti masuk ke kompleks perumahan.",proses pelebaran area,PREP,NO,NO,NO,3
+55,karena,"Padahal, cuaca saat itu tidak begitu mendukung karena sedang musim hujan.",sedang musim hujan,PREP,NO,NO,YES,3
+56,karena,"Pada 2019, Teguh meninggal karena serangan jantung.",serangan jantung,PREP,NO,NO,NO,2
+57,karena,"Mungkin karena setiap Maghrib, Arini dan ibunya selalu kami kirimi doa sehingga tidak pernah menampakkan diri lagi.",setiap Maghrib,PREP,NO,NO,NO,2
+58,karena,Dina tetap mematung seperti terhipnotis karena tarian itu.,tarian itu,PREP,NO,NO,NO,2
+59,sebelum,Winda mendengarkan detail cerita Janu dengan seksama sebelum akhirnya dia menghela napas.,akhirnya dia menghela napas,CONJ,YES,YES,NO,4
+60,sebelum,Hanya satu tahun Hendro tinggal di rumah itu sebelum akhirnya diterima bekerja di sebuah perusahaan perkebunan.,akhirnya diterima bekerja,CONJ,YES,NO,NO,3
+61,sebelum,"Sebelum pergi, dia dibekali beberapa benda pusaka.",pergi,CONJ,NO,NO,NO,1
+62,sebelum,Terengah-engah ketika mereka akhirnya sampai di ujung lembah sebelum masuk hutan.,masuk hutan,CONJ,NO,NO,NO,2
+63,sebelum,"Sebelum masuk ke ruang tamu, beliau menyempatkan diri melihat-lihat ke sekeliling asrama karyawan diikuti oleh Mbak Asti.",masuk ke ruang tamu,CONJ,NO,NO,NO,4
+64,sebelum,"Sebelum berangkat ke Gunung Slamet, Pak Drajat kembali lagi ke kamar Mila.",berangkat ke Gunung Slamet,CONJ,YES,NO,NO,4
+65,sebelum,Rama juga akan berpamitan sebelum mendaki Gunung Semeru bersama Janu.,berpamitan sebelum mendaki,CONJ,YES,NO,NO,3
+66,sebelum,Dikumpulkannya keberaniannya sebelum dia melangkah mendekati kedua mahluk itu.,dia melangkah mendekati,CONJ,YES,YES,NO,3
+67,sebelum,"Memulai proses pencarian Sesuai perkiraan, sebelum Maghrib tiba, kami sudah sampai di basecamp Ranupani.",Maghrib tiba,CONJ,NO,NO,NO,2
+68,sebelum,"Pagi harinya, seluruh tim relawan mengikuti briefing sebelum memulai proses pencarian.",memulai proses pencarian,CONJ,YES,NO,NO,3
+69,sebelum,"Sebelum menikah, beliau juga tinggal di rumah yang sekarang jadi tempat kos Mila dan teman-temannya.",menikah,CONJ,YES,NO,NO,1
+70,sebelum,"Pagi hari sebelum meninggal, Bu Dewi datang ke sini.",meninggal,CONJ,YES,NO,NO,1
+71,sebelum,"Sebelum tinggal di perumahan ini, kami tinggal di sebuah rumah kontrakan yang berbatasan dengan area pemakaman.",tinggal di perumahan ini,CONJ,NO,NO,NO,4
+72,sebelum,"Tepat sebelum Maghrib, keduanya sampai di Basecamp Bambangan, rumah Pak Bau.",Maghrib,PREP,NO,NO,NO,1
+73,sebelum,Dia pergi sejak sebelum Maghrib.,Maghrib,PREP,NO,NO,NO,1
+74,sebelum,"Pengalaman Mbak Asti dan temannya Sehari sebelum penutupan acara Management Training, Mbak Asti mendapatkan pengalaman yang aneh.",penutupan acara,PREP,NO,NO,NO,2
+75,sebelum,beberapa hari sebelum peristiwa itu kamarnya memang terasa lebih dingin dari biasanya dan sering tercium aroma wewangian.,peristiwa itu,PREP,NO,NO,NO,2
+76,untuk,Pinkan tahu dia tidak akan mampu menghalangi niat Rama untuk mendaki Gunung Semeru.,mendaki Gunung Semeru,CONJ,YES,NO,NO,3
+77,untuk,"Hampir setiap hari libur, Kinanti selalu datang ke Bambangan, entah untuk mendaki atau sekadar silaturahmi ke tempat Pak Bau.",mendaki atau sekadar silaturahmi,CONJ,YES,NO,NO,4
+78,untuk,Orang tua Pinkan dan Rama akhirnya memutuskan untuk kembali ke basecamp Ranupani.,kembali ke basecamp,CONJ,NO,NO,NO,3
+79,untuk,Dia seperti menggunakan seluruh energinya untuk melakukan ritual ini.,melakukan ritual ini,CONJ,YES,NO,NO,3
+80,untuk,Kinanti minta izin untuk bisa menempati salah satu kamar di paviliun yang baru dibangun Bu Rahmi.,bisa menempati salah satu kamar,CONJ,YES,NO,YES,5
+81,untuk,Malam itu Mbak Asti meminta Om Unggul untuk datang ke asrama.,datang ke asrama,CONJ,NO,NO,NO,3
+82,untuk,Kami diminta untuk duduk dengan membentuk lingkaran.,duduk dengan membentuk lingkaran,CONJ,YES,NO,NO,4
+83,untuk,Aku disergap keraguan antara harus menyusul Teguh atau turun untuk meminta bantuan penduduk.,meminta bantuan penduduk,CONJ,YES,NO,NO,3
+84,untuk,Beni berteriak agak keras untuk mengusir rasa takut yang mulai menjalari nyali.,mengusir rasa takut,CONJ,YES,NO,NO,3
+85,untuk,"Sampai di jembatan besar yang menjadi batas dua desa, perempuan itu minta Mas Deni untuk berhenti sebentar.",berhenti sebentar,CONJ,YES,NO,NO,2
+86,untuk,Beni lalu berinisiatif menelepon temannya di Malang untuk memastikan kabar itu.,memastikan kabar itu,CONJ,YES,NO,NO,3
+87,untuk,Bu Rahmi berinisiatif untuk membuat kos-kosan.,membuat kos-kosan,CONJ,YES,NO,NO,2
+88,untuk,"Ubi pemberian pak Bau sudah dingin, tapi lumayan untuk menambah energi yang terkuras.",menambah energi yang terkuras,CONJ,YES,NO,NO,4
+89,untuk,Seluruh potensi SAR yang dimiliki Mapala dikerahkan untuk mencari info.,mencari info,CONJ,YES,NO,NO,2
+90,untuk,Pak Drajat bergegas masuk rumah untuk menerima telepon.,menerima telepon,CONJ,YES,NO,NO,2
+91,untuk,"Untuk sampai ke sana, Mbak Asti harus melewati sejumlah gedung di sisi kiri dan kanan jalan selebar enam meter.",sampai ke sana,CONJ,NO,NO,NO,3
+92,untuk,"Namun, kami terus berusaha untuk tidak panik.",tidak panik,CONJ,NO,NO,NO,2
+93,untuk,"Di dekat mata air, mereka mendirikan camp untuk beristirahat.",beristirahat,CONJ,YES,NO,NO,1
+94,untuk,Sementara Mbak Asti memerintahkan karyawan lain untuk membawa Pak Hendro ke asrama.,membawa Pak Hendro ke asrama,CONJ,YES,NO,NO,5
+95,untuk,Mas Deni menepi lalu turun dari kendaraan dan mencari lokasi yang memungkinkan untuk membuang hajatnya.,membuang hajatnya,CONJ,YES,NO,NO,2
+96,untuk,Kewajiban untuk menyiapkan sarapan pagi untuk 300 peserta pelatihan memaksa seluruh karyawan bagian dapur bangun lebih awal.,menyiapkan sarapan pagi,CONJ,YES,NO,NO,3
+97,untuk,"Untuk kesekian kalinya, aku dan Teguh berpandangan.",kesekian kalinya,PREP,NO,NO,NO,2
+98,untuk,"Untuk kesekian kalinya, Pak Yuli menanyakan keberadaan Rama.",kesekian kalinya,PREP,NO,NO,NO,2
+99,untuk,"Namun, satu hal yang pasti, malam itu adalah malam duka untuk mereka semua.",mereka semua,PREP,NO,YES,NO,2
+100,untuk,Tidak jarang juga Kinanti membawakan oleh-oleh untuk mereka di Gunung Slamet.,mereka di Gunung Slamet,PREP,NO,YES,NO,4
+101,untuk,Letaknya tidak terlalu jauh dari dapur yang saat itu sedang menyiapkan kebutuhan untuk peserta pelatihan.,peserta pelatihan,PREP,NO,NO,NO,2
+102,untuk,"Untuk beberapa saat lamanya, keempat makhluk itu hanya saling berpandangan.",beberapa saat lamanya,PREP,NO,NO,NO,3
+103,untuk,"Keduanya duduk di deretan paling belakang, yang tempat duduknya hanya untuk dua orang.",dua orang,PREP,NO,NO,NO,2
+104,untuk,Sebuah amplop surat yang dialamatkan untuk Eyang.,Eyang,PREP,NO,NO,NO,1
+105,untuk,Ini boneka yang dibeli Rama untuk hadiah ulang tahun Pinkan.,hadiah ulang tahun Pinkan,PREP,NO,NO,NO,4
+106,untuk,"Bukan hanya penghuni asrama saja, tapi penduduk sekitar juga memanfaatkan keberadaan masjid itu untuk ibadah mereka.",keselamatan,PREP,NO,NO,NO,1
+107,untuk,Rupanya seseorang meletakkan paket yang ditujukan untuk Janu.,Janu,PREP,NO,NO,NO,1
+108,untuk,"Untuk kamar, biasanya kami menggunakan senthir, lampu tempel dengan sumbu berbahan bakar minyak tanah.",kamar,PREP,NO,NO,NO,1
+109,untuk,"Tidak butuh waktu lama, aku membuat mi instan dan kopi untuk kami bertiga.",kami bertiga,PREP,YES,YES,NO,2
+110,untuk,"Selama kegiatan berlangsung, biasanya dijual banyak perlengkapan untuk kegiatan outdoor.",pendaki,PREP,NO,NO,NO,1
+111,untuk,Sekarang lebih baik kalian berdoa untuk keselamatan teman-teman kalian.,keselamatan,PREP,NO,NO,NO,1
+112,untuk,Rumah kontrakan kami termasuk murah untuk lokasi di pinggir jalan raya.,lokasi di pinggir kota,PREP,NO,NO,NO,4
+113,untuk,Sisi membawakan secangkir teh untuk Pak Drajat.,Pak Drajat,PREP,NO,NO,NO,2
+114,untuk,"Setiap sore, di depan rumah kami biasanya ramai oleh penduduk desa sekitar yang mencari rumput untuk pakan ternak.",menikmati sore,PREP,YES,NO,NO,2
+115,untuk,Semua keperluan untuk ritual itu sudah lengkap.,ritual itu,PREP,NO,NO,NO,2
+116,untuk,Mila menabur bunga untuk siapa?,siapa,PREP,NO,NO,NO,1
+117,dengan,"Dengan suara bergetar karena menahan tangis, ibu Pinkan mengatakan bahwa ciri-ciri pemuda yang disebut penjaga makam itu mirip sekali dengan Rama.",suara bergetar,CONJ,YES,NO,NO,2
+118,dengan,Pak Yuli bertanya dengan suara bergetar menahan takut.,suara bergetar menahan takut,CONJ,YES,NO,NO,4
+119,dengan,Ada perasaan lega yang tersirat di wajah Rio begitu melihat pemilik konter itu kembali dengan membawa carrier pesanannya.,membawa carrier pesanannya,CONJ,YES,NO,NO,3
+120,dengan,Mereka biasanya datang dengan membawa seorang paranormal.,membawa seorang paranormal,CONJ,YES,NO,NO,3
+121,dengan,Beberapa kali mereka berpapasan dengan para pendaki yang turun.,para pendaki yang turun,CONJ,NO,NO,NO,4
+122,dengan,Perempuan itu akhirnya pergi dengan diiringi hembusan angin.,diiringi hembusan angin,CONJ,YES,NO,NO,3
+123,dengan,Dia meninggal karena bunuh diri dengan menabrakkan tubuhnya ke kereta api.,menabrakkan tubuhnya ke kereta api,CONJ,YES,NO,NO,5
+124,dengan,Mereka berniat merayakan pertunangan dengan mendaki Gunung Slamet.,mendaki Gunung Slamet,CONJ,YES,NO,NO,3
+125,dengan,"Dengan mengucapkan salam terlebih dahulu, Beni, diringi yang lain masuk rumah satu per satu.",mengucapkan salam terlebih dahulu,CONJ,YES,NO,NO,4
+126,dengan,"Pagi harinya, beberapa teman dari survivor melakukan pencarian dengan menuruni jurang.",menuruni jurang,CONJ,YES,NO,NO,2
+127,dengan,Tubuhnya diam mematung dengan pandangan mata lurus ke depan.,pandangan mata lurus ke depan,CONJ,NO,NO,NO,5
+128,dengan,Aku memberikan kode dengan mengacungkan jempol.,mengacungkan jempol,CONJ,YES,NO,NO,2
+129,dengan,Hingga suatu ketika dia berhasil membunuh perempuan itu dengan menusukkan pisau tepat di jantungnya.,menusukkan pisau,CONJ,YES,NO,NO,2
+130,dengan,Dia bahkan menghukum Arini dengan melarangnya keluar rumah.,melarangnya keluar rumah,CONJ,YES,NO,NO,3
+131,dengan,Beliau kenal baik dengan Pak Bau selaku juru kunci Gunung Slamet di Bambangan.,Pak Bau,PREP,NO,NO,NO,2
+132,dengan,Mila menjadi yang terakhir berpamitan dengan Pak Bau.,Pak Bau,PREP,NO,NO,NO,2
+133,dengan,Dari cerita Pak RT dapat disimpulkan alasan kenapa rumah disewakan dengan harga murah.,harga murah,PREP,NO,NO,NO,2
+134,dengan,Bahkan Rio sempat berkenalan dengan kedua perempuan itu.,kedua perempuan itu,PREP,NO,NO,NO,3
+135,dengan,Aku peluk ibuku yang masih sedikit terguncang dengan kejadian ini.,kejadian ini,PREP,NO,NO,NO,2
+136,dengan,Teguh dan Beni kembali mencoba mengaitkannya dengan peristiwa di dalam kereta.,peristiwa di dalam kereta,PREP,NO,NO,NO,4
+137,dengan,Maka dibangunlah tiga kamar di halaman yang bersebelahan dengan rumah induk.,rumah induk,PREP,NO,NO,NO,2
+138,dengan,Rumahnya sangat dekat dengan rumah kontrakan kami.,rumah kontrakan kami,PREP,NO,YES,NO,3
+139,dengan,"Sebenarnya, jarak dengan rumah tetangga tidak terlalu dekat juga.",rumah tetangga,PREP,NO,NO,NO,2
+140,dengan,Pak Drajat tidak kaget lagi dengan pertanyaan dari Sisi.,pertanyaan dari Sisi,PREP,NO,NO,NO,3
+141,dengan,"Namun, sebelumnya aku diskusikan dulu dengan semua teman.",semua teman,PREP,NO,NO,NO,2
+142,dengan,"Mungkin karena anak bungsu, dia suka sekali dengan anak kecil.",anak kecil,PREP,NO,NO,NO,2
+143,dengan,Kami tinggal di sebuah rumah kontrakan yang berbatasan dengan area pemakaman.,area pemakaman,PREP,NO,NO,NO,2
+144,dengan,"Akhirnya kami bertemu dengan Mas Beni, Pak Bau, dan beberapa warga.","Mas Beni, Pak Bau, dan beberapa anggota tim SAR",PREP,NO,NO,NO,9
+145,dengan,Beni mencoba membuka percakapan dengan mereka.,mereka,PREP,NO,YES,NO,1
+146,dengan,"Setelah berbasa-basi sejenak dengan beliau, aku akhirnya mengutarakan maksud kedatangan kami.",beliau,PREP,NO,YES,NO,1
+147,setelah,Mila sendiri akhirnya pindah kamar setelah mendapat cerita dari teman-temannya tentang kejadian hari itu.,mendapat cerita dari teman-temannya,CONJ,YES,NO,NO,4
+148,setelah,"Tidak lama setelah mendapat laporan, kepolisian langsung datang ke asrama.",mendapat laporan,CONJ,YES,NO,NO,2
+149,setelah,"Setelah mendapat pekerjaan hingga akhirnya menikahi Dewi, Hendro sudah tidak lagi menjadi pemburu benda-benda pusaka.",akhirnya menikahi Dewi,CONJ,YES,NO,NO,3
+150,setelah,Suara Pak Bau bergetar sesaat setelah melihat foto yang ditunjukkan Pak Drajat.,melihat foto,CONJ,YES,NO,NO,2
+151,setelah,"Malam itu, setelah selesai membagikan bingkisan kepada tetangga, semua kembali dan berkumpul di basecamp.",selesai membagikan bingkisan,CONJ,YES,NO,NO,3
+152,setelah,"Tapi, setelah ditunggu sampai sore, survivor tidak kunjung sampai.",ditunggu sampai sore,CONJ,YES,NO,NO,3
+153,setelah,"Setelah semua clear, kami lalu berkumpul di ruangan depan, membahas beberapa langkah yang harus dilakukan terkait ""penghuni"" di kontrakan ini.",semua clear,CONJ,NO,NO,NO,2
+154,setelah,"Namun, sesaat setelah Beni berdiri, tiba-tiba pintu rumah terbuka sendiri, padahal masih dalam keadaan terkunci!",Beni berdiri,CONJ,YES,NO,NO,2
+155,setelah,"Setelah Beni menelepon temannya, akhirnya kabar meninggalnya Dani terkonfirmasi.",Beni menelepon temannya,CONJ,YES,NO,NO,3
+156,setelah,"Setelah meneguk air putih sampai setengah gelas, dia mulai bercerita.",meneguk air putih,CONJ,YES,NO,NO,3
+157,setelah,"Setelah menerima pembayaran kopinya, dia bergegas pergi.",menerima pembayaran kopinya,CONJ,YES,NO,NO,3
+158,setelah,"Setelah menyelesaikan sekolah kejuruan di Purwokerto, dia merantau ke Jakarta.",menyelesaikan sekolah kejuruan,CONJ,YES,NO,NO,3
+159,setelah,Rupanya beliau agak gusar setelah Pak Drajat menerima telepon dari Pak Sudi.,Pak Drajat menerima telepon,CONJ,YES,NO,NO,4
+160,setelah,Setelah pintu dibuka kami semua mengikutinya dari belakang.,pintu dibuka,CONJ,YES,NO,NO,2
+161,setelah,"Pagi itu Rio berpamitan kepada kami, beberapa saat setelah Dani menyalami kami.",Dani menyalami kami,CONJ,YES,YES,NO,3
+162,setelah,"Setelah evakuasi selesai, dua burung merak itu menghilang.",evakuasi selesai,CONJ,NO,NO,NO,2
+163,setelah,"Setelah kedua orang tuanya meninggal, Bu Rahmi menempati rumah itu.",kedua orang tuanya meninggal,CONJ,YES,NO,NO,4
+164,setelah,Akan ada apa lagi setelah semua ini?,semua ini,PREP,NO,NO,NO,2
+165,setelah,Kehidupan rumah tangga mereka semakin memburuk setelah kepergian Kinanti.,kepergian Kinanti,PREP,NO,NO,NO,2
+166,setelah,"Hari ketiga, setelah acara pelatihan, berbekal sebilah kayu cendana sepanjang 20 sentimeter, Hendro menyambangi pohon beringin di sudut tanah kuburan itu.",acara pelatihan,PREP,NO,NO,NO,2
+167,setelah,"Hanya, setelah malam itu, berbagai kejadian aneh terjadi di kehidupan kami bertiga.",malam itu,PREP,NO,NO,NO,2
+168,hingga,Kami masih bertetangga hingga hari ini.,hari ini,PREP,NO,NO,NO,2
+169,hingga,"Namun, hingga empat hari pencarian, jejak mereka tidak ditemukan.",empat hari pencarian,PREP,NO,NO,NO,3
+170,hingga,"Di sebelah utara rumah kontrakan yang kami tempati adalah bangunan Sekolah Dasar, sebelah selatan berbatasan dengan beberapa ruko yang hanya buka hingga sore hari saja.",sore hari saja,PREP,NO,NO,NO,3
+171,hingga,Hingga pada suatu hari kami mendapati ada rumah kontrakan yang disewakan dengan harga murah.,pada suatu hari,PREP,NO,NO,NO,3
+172,hingga,"Dia justru semakin penasaran, hingga timbul niat untuk menarik benda pusaka yang ada di asrama itu tanpa berpikir risiko yang bisa ditimbulkannya.",timbul niat untuk menarik benda pusaka,CONJ,YES,NO,NO,6
+173,hingga,Suaranya keras sekali hingga mengundang perhatian tetangga.,mengundang perhatian tetangga,CONJ,YES,NO,NO,3
+174,hingga,"Seminggu setelah penemuan topi itu, jejak keduanya tidak pernah ditemukan hingga mereka berdua secara resmi dinyatakan hilang.",mereka berdua secara resmi dinyatakan hilang,CONJ,YES,YES,NO,6
+175,hingga,"Setelah mendapat pekerjaan hingga akhirnya menikahi Dewi, Hendro sudah",akhirnya menikahi Dewi,CONJ,YES,NO,NO,3
+176,sampai,"Kereta Ekspres Matarmaja yang membawa Beni, Teguh, dan Ari akhirnya sampai di stasiun Kota Baru, Malang.",di stasiun Kota Baru Malang,VERB,NO,NO,NO,5
+177,sampai,"Tepat sebelum Maghrib, keduanya sampai di Basecamp Bambangan, rumah Pak Bau.",Maghrib,VERB,NO,NO,NO,1
+178,sampai,Akhirnya aku dan Bu Nela sampai di depan kos Mila.,di depan kos Mila,VERB,NO,NO,NO,4
+179,sampai,"Rio bahkan sampai menangis, dia teringat peristiwa serupa pernah menimpa sahabatnya yang meninggal saat mendaki ke Gunung Salak.",menangis,ADV,YES,NO,NO,1
+180,sampai,Bukan hal mudah bagi keluarga untuk melupakan trauma ketika ada anggota keluarga yang hilang apalagi sampai meninggal di gunung.,meninggal di gunung,ADV,YES,NO,NO,3
+181,sampai,Ari sampai pingsan.,pingsan,ADV,NO,NO,NO,1
+182,sampai,Sampai Maghrib dia duduk bersimpuh di pusara Mbak Pinkan.,Maghrib,PREP,NO,NO,NO,1
+183,sampai,"Sampai hari ini, sampai aku dewasa, kejadian malam itu tak pernah terjawab.",hari ini,PREP,NO,NO,NO,2
+184,sampai,"Sejak peristiwa itu, sampai hari ini, tidak ada lagi kejadian-kejadian aneh di dalam asrama.",hari ini,PREP,NO,NO,NO,2
+185,akan,Maaf Pak kalau kedatangan kami membangkitkan kembali kenangan akan almarhumah Arini,almarhumah Arini,PREP,NO,NO,NO,2
+186,akan,Kali ini dia sudah tidak peduli akan kesunyian asrama.,kesunyian asrama,PREP,NO,NO,NO,2
+187,akan,Tiba-tiba muncul keraguan akan sikap tetangga di kampung ini.,sikap tetangga di kampung ini,PREP,NO,NO,NO,5
+188,akan,Ayah Rama bertanya kepada Pak Yuli juga yang juga tidak mengira akan ada kejadian seperti ini.,ada kejadian seperti ini,ADV,NO,NO,NO,4
+189,akan,"Keluarga tidak akan melakukan perpanjangan, semua sudah mengikhlaskan kepergian Rama.",melakukan perpanjangan,ADV,YES,NO,NO,2
+190,akan,"Sepertinya, cerita tentang Kinanti ini akan semakin menarik karena semakin melibatkan banyak orang.",semakin menarik,ADV,YES,NO,NO,2
+191,akan,"Sebenarnya, dia sudah khawatir akan terjadi sesuatu tapi tidak tahu apa yang harus diperbuat.",terjadi sesuatu,ADV,YES,NO,NO,2
+192,akan,"Baik, kami akan berusaha menemukan dia.",berusaha menemukan dia,ADV,YES,YES,NO,3
+193,akan,Mereka seperti tahu apa yang akan dilakukan Pak Drajat.,dilakukan Pak Drajat,ADV,YES,NO,NO,3
+194,akan,"Saat itu, dia akan kembali ke tempat duduknya setelah menutup kedua pintu.",kembali ke tempat duduknya,ADV,NO,NO,NO,4
+195,akan,Suasana mistis akan lebih terasa jika melalui jalur Purwosari karena di sana banyak situs peninggalan kerajaan yang masih disakralkan.,lebih terasa,ADV,YES,NO,NO,2
+196,akan,"Rencananya, mereka berempat akan mendaki Gunung Arjuno lewat jalur Tretes.",mendaki Gunung Arjuno,ADV,YES,NO,NO,3
+197,akan,Ini akan menjadi sebuah pendakian panjang.,menjadi sebuah pendakian panjang,ADV,YES,NO,NO,4
+198,akan,Rama menolak karena akan berfoto bareng dua pendaki lain.,berfoto bareng dua pendaki lain,ADV,YES,NO,NO,5
+199,akan,"Setelah itu, mereka akan berkumpul sejenak di ruang pertemuan untuk mendengarkan pidato penutupan acara.",berkumpul sejenak di ruang pertemuan,ADV,YES,NO,NO,5
+200,akan,Rama juga akan berpamitan sebelum mendaki Gunung Semeru bersama Janu.,berpamitan sebelum mendaki,ADV,YES,NO,NO,3
+201,akan,"Pada malam Jumat, proses penarikan benda pusaka dari tanah kuburan akan dilakukan.",dilakukan,ADV,YES,NO,NO,1
+202,akan,"Besok, pencarian akan dilanjutkan ke area puncak.",dilanjutkan ke area puncak,ADV,YES,NO,NO,4
+203,akan,Mereka pasti akan menampakkan diri lagi.,menampakkan diri lagi,ADV,YES,NO,NO,3
+204,akan,Pendaki Gunung Semeru akan menemui sebuah fenomena.,menemui sebuah fenomena,ADV,YES,NO,NO,3
+205,akan,Dia nggak akan ngapa-ngapain.,ngapa-ngapain,ADV,NO,NO,NO,1
+206,akan,Kami semua akan selalu mendoakanmu.,selalu mendoakanmu,ADV,YES,NO,NO,2
+207,buat,Itu masih jadi teka-teki buat saya sampai hari ini.,saya,PREP,NO,YES,NO,1
+208,buat,"Wan, ambilin air putih buat Mas.",Mas,PREP,NO,NO,NO,1
+209,buat,Aku sorongkan segelas air putih buat Mas Deni setelah sebelumnya dibacakan doa oleh ibu.,Mas Deni,PREP,NO,NO,NO,2
+210,buat,"Apa yang bisa kami lakukan buat kamu, Kinanti?",kamu Kinanti,PREP,NO,YES,NO,2
+211,buat,Dia adalah koki yang di setiap kegiatan pendakian selalu diandalkan untuk memasak buat kami.,kami,PREP,NO,YES,NO,1
+212,buat,"Buat dia, ini hanya pertanyaan basa-basi saja.",dia,PREP,NO,YES,NO,1
+213,buat,"Jika sedang banyak pelatihan, pekerjaan di dapur praktis tidak pernah berhenti karena harus menyediakan makan buat para peserta.",para peserta,PREP,NO,NO,NO,2
+214,buat,"Makan ubi dulu Mil, buat mengganjal perut dan nambah energi.",mengganjal perut dan nambah energi,CONJ,YES,NO,NO,5
+215,buat,"Tapi menurut kepercayaan Jawa, Sabtu Pahing memang hari pantangan buat pergi.",pergi,CONJ,NO,NO,NO,1
+216,sama,Tadi diajakin foto bareng sama cewek.,cewek,PREP,NO,NO,NO,1
+217,sama,Ooo... aku dan Friska kenal baik sama Dina.,Dina,PREP,YES,NO,NO,1
+218,sama,"Di sini, kebanyakan masyarakatnya tradisional, Mas, takut berurusan sama hukum.",hukum,PREP,NO,NO,NO,1
+219,sama,Aku tadi sempat ngobrol sama mereka.,mereka,PREP,NO,YES,NO,1
+220,sama,"Kamu masih percaya juga sama mitos itu, Ben.",mitos itu,PREP,NO,NO,NO,2
+221,sama,Teguh sama Ari gimana?,Ari,CONJ,NO,NO,NO,1
+222,sama,Teguh sama Mila di mana?,Mila,CONJ,NO,NO,NO,1
